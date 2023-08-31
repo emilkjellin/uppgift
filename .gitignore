@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kakmonstret</title>
+    <link rel="stylesheet" href="style.css">  
+</head>
+<body>
+   <div class="main"></div> 
+    <h1><b>protienbites</b></h1> 
+  <h2><i>Om oss</i></h2>     
+   <p>Vårat företag är skapad och körs av 2 ungdommar vars vill skapa varor med hög mängd av protein.</p>
+   <p>Vi båda var trötta på protienbars och deras innehåll och därför ville skapa någonting som är anorlunda</p>
+    <p>i både form och ämne</p>
+    <p>Vi på kakmonstret tillverkar alla produkter hemma </p> 
+   <a href="./about.html">Ingridienser-sida2</a>
+   
+   
+   
+    <link rel="stylesheet" href="style.css">
+
+   <p>Vi lagar allting hemma med kärlek och passion!</p>
+   <ul>
+<li>snabba</li>
+<li>hemmagjorda</li>
+<li>goda</li>
+<li>hög proteinhalt</li>
+   </ul>
+   
+<a href="emil.kjellin@elev.ga.ntig.se">Maila oss</a>
+
+
+
+
