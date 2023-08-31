@@ -1,0 +1,17 @@
+h1{
+color:burlywood;
+background-color :black
+}
+h3{
+ text-align:end /* vart någonstans texten ska plaseras*/
+ 
+
+}
+body{
+background-image: url('yes.jpg');
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+
+
+}
